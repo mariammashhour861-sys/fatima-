@@ -1,1 +1,4 @@
-key-str=p89
+colors= []
+colors .append("red")
+colors.append("blue")
+print(colors)
